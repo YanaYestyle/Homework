@@ -1,0 +1,39 @@
+body {
+    font-size: small;
+    font-family: Verdana, Helvetica, Arial, sans-serif;
+    line-height: 1.6em;
+}
+
+p {
+    background-color: red;
+    color: grey;
+    
+}
+
+h1, h2 {
+    color: #007e7e;
+}
+
+h1 {
+    font-size: 150%;
+}
+
+h1 {
+    font-size: 130%;
+}
+
+em {
+    font-family: serif;  
+}
+
+p.green {
+    color: green;
+}
+
+p.blue {
+    color: blue;
+}
+
+p.purple {
+    color: purple;
+}

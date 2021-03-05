@@ -1,0 +1,17 @@
+var quest = Math.round(Math.random() * 10);
+var success = false;
+
+
+
+do {
+    var answer = parseInt(prompt ("What is the number?"));
+
+if (quest === answer) {
+    alert("Congrats!");
+    success = true;
+} else if (quest < answer) {
+    alert ("The number is smaller")
+} else {
+    alert ("The number is greater")
+}
+} while (!success);
