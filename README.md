@@ -1,1 +1,1 @@
-Domowe zadania znajdują się w index.html
+Domowe zadania znajdują się w intex.html
