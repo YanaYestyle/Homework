@@ -1,2 +1,1 @@
-# Homework
-# Homework
+Domowe zadania znajdują się w index.html
